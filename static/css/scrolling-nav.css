@@ -38,37 +38,43 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.about-section {
+.about-pres-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: center;
     background: #eee;
 }
 
-.issues-section {
+.about-vp-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
+}
+.issues-section {
+    height: 100%;
+    padding-top: 50px;
+    text-align: center;
+    background: #eee;
 }
 
 .campaign-section {
     height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #eee;
-}
-
-.join-section {
-    height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: center;
     background: #fff;
 }
 
-.donate-section {
+.join-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 50px;
     text-align: center;
     background: #eee;
+}
+
+.donate-section {
+    height: 100%;
+    padding-top: 50px;
+    text-align: center;
+    background: #fff;
 }
