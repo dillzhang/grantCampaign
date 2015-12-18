@@ -59,7 +59,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .campaign-section {
-    height: 100%;
+    padding-bottom:50px
     padding-top: 50px;
     text-align: center;
     background: #fff;
@@ -69,12 +69,12 @@ of those sections to manage the look and feel of the site. */
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    background: #eee;
+    background: #fff;
 }
 
 .donate-section {
-    height: 100%;
+    padding-bottom: 50px;
     padding-top: 50px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
